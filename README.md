@@ -1,5 +1,4 @@
 # Insighta Web Portal
-
 A secure data analytics dashboard built with Next.js and Tailwind CSS for the Insighta Labs internal teams.
 
 ## Overview
@@ -33,3 +32,10 @@ This repository serves as the frontend visual interface for the Insighta Labs ap
 3. Copy the generated `access_token` from the backend response.
 4. Return to the portal, paste the token into the input field, and click **"Access Dashboard"**.
 5. View and navigate through the paginated user profiles securely.
+
+---
+
+### 👤 Author
+- **Name:** Har-beebullah I.O
+- **HNG Slack ID:** H.A.X
+- **Track:** Backend
