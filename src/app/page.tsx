@@ -13,7 +13,7 @@ export default function LoginPage() {
     window.open("https://hng-stage-0-api-eta.vercel.app/auth/github", "_blank");
   };
 
-  const handleLoginSubmit = (e: React.FormEvent) => {
+  const handleLoginSubmit = (e: React.SubmitEvent<HTMLFormElement>) => {
     e.preventDefault();
     const cleanToken = token.trim();
 
